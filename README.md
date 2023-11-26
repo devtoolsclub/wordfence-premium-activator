@@ -1,4 +1,3 @@
-HEAD
 === Wordfence Premium Security Activator ===
 Contributors: GPL Community
 Tags: security, firewall, malware scanner, real-time protection, activation, license, register, form, key
