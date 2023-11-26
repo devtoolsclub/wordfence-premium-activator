@@ -45,3 +45,7 @@ Initial release.
 =======
 # wordfence-premium-activator
 Automatically activates and configures Wordfence Security plugin.
+
+== Additional Information ==
+
+For more information, support, and updates, visit https://devtools.club/ and contact us.
