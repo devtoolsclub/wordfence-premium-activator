@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 === Wordfence Premium Security Activator ===
 Contributors: GPL Community
 Tags: security, firewall, malware scanner, real-time protection, activation, license, register, form, key
@@ -45,4 +45,3 @@ Initial release.
 =======
 # wordfence-premium-activator
 Automatically activates and configures Wordfence Security plugin.
->>>>>>> b930256981f99f6e1517c0531a3b9771d905deab
