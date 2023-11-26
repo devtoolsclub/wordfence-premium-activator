@@ -40,10 +40,7 @@ Yes, Wordfence Security needs to be installed and activated for this plugin to f
 == Upgrade Notice ==
 
 = 1.0 =
-Initial release.
-=======
-# wordfence-premium-activator
-Automatically activates and configures Wordfence Security plugin.
+Initial release. Enjoy the plugin!
 
 == Additional Information ==
 
